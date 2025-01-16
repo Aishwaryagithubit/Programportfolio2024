@@ -1,0 +1,28 @@
+This conversation started with tina.
+Agent: Nil
+tina: tell me about summer course
+Nil: You can explore our courses on the university website.
+tina: tell me about educational tour
+Nil: Oh, I don't know about that. Maybe you can try again later?
+tina: fees
+Nil: Checkout your student account for pending fees and payment due dates
+tina: which games are available
+Nil: cricket,tennis,badminton,football,ludo,chess
+tina: cafe
+Nil: I'm not entirely sure, but I can help you find the right answer!
+This conversation ended with tina.
+This conversation started with mimi.
+Agent: Siya
+This conversation ended with mimi.
+This conversation started with moe.
+Agent: Max
+moe: weather
+Max: I'm not entirely sure, but I can help you find the right answer!
+moe: season
+Max: spring,summer.winter,autum
+This conversation ended with moe.
+This conversation started with Riya.
+Agent: Ram
+Riya: Rain
+Ram: I'm not sure about that, but tell me more!
+This conversation ended with Riya.
