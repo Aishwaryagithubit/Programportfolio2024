@@ -3,3 +3,4 @@ This repository contains programming portfolio for showcasing weekly tasks and p
 A folder for weekly exercises.
 A folder for weekly practical worksheets.
 A folder for weekly programs.
+Project 1 and Project 2
