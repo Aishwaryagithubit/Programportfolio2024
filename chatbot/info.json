@@ -7,7 +7,7 @@
     "course": [
         "The avilable courses are : computer science,BBA,BHM,ACCA,IT,AI,ML",
         "We offer a range of courses such as Computer Science, BBA, BHM, ACCA, IT, AI, and ML",
-        "courses: Computer Science, BBA, BHM, ACCA, IT, AI, and ML.",
+        "courses: Computer Science, BBA, BHM,MBA, ACCA, IT, AI, and ML.",
         "We offer a variety of courses. What are you interested in?",
         "You can explore our courses on the university website."
     ],
@@ -124,3 +124,4 @@
     ]
 
 }
+
