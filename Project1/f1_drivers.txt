@@ -1,4 +1,4 @@
-1,VER,Max Verstappen,Red Bull Racing
+1,VER,Max Verstappen,Red Bull Race
 2,SAR,Logan Sargeant,Williams
 3,RIC,Daniel Ricciardo,RB
 4,NOR,Lando Norris,McLaren
@@ -17,4 +17,5 @@
 55,SAI,Carlos Sainz,Ferrari
 63,RUS,George Russell,Mercedes
 77,BOT,Valtteri Bottas,Kick Sauber
+
 81,PIA,Oscar Piastri,McLaren
